@@ -1,2 +1,4 @@
 # hellow-world
-just a test
+1804071544@qq.com
+这是该项目的1.0版本
+目前实现的功能是采集GPS+温度+浊度+湿度
